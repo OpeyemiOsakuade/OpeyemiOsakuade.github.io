@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kazane Ryo no Danna"
+title                    : "Opeyemi Osakuade"
 title_separator          : "-"
 name                     : &name "Opeyemi Osakuade"
 description              : &description "Ph.D student, Speech and Natural Language Processing"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Opeyemi Osakuade"
-  avatar           : "raiosu.png"
+  avatar           : "Headshot.jpg"
   bio              : "Ph.D student, Speech and Natural Language Processing"
   location         : "Edinburgh, United Kingdom"
   employer         :
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/opeyemi-osakuade/"
+  linkedin         : "opeyemi-osakuade"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       : #"loli-master"
