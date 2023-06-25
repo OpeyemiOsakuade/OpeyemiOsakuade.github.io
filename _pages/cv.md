@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Coming soon.......
+
+<!-- Education
 ======
 * B.S. in Computer Science, National Chiao Tung University, 2018
 
@@ -69,4 +71,4 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->

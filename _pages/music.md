@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Some music pieces I produced in the past or have been involved with. Most of my music are fall in the genres of Progressive Metal/Djent.
+<!-- Some music pieces I produced in the past or have been involved with. Most of my music are fall in the genres of Progressive Metal/Djent.
 
 # 2020
 
@@ -83,4 +83,4 @@ Concept music inspired by **Made in Abyss**.
 
 ## ALDNOAH.ZERO OP2 "&Z" - Djent Remix
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302077167&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/loli-master" title="Y.C.Y" target="_blank" style="color: #cccccc; text-decoration: none;">Y.C.Y</a> · <a href="https://soundcloud.com/loli-master/z-remix-2017-remaster" title="&amp;Z Remix (2017 remaster)" target="_blank" style="color: #cccccc; text-decoration: none;">&amp;Z Remix (2017 remaster)</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/302077167&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/loli-master" title="Y.C.Y" target="_blank" style="color: #cccccc; text-decoration: none;">Y.C.Y</a> · <a href="https://soundcloud.com/loli-master/z-remix-2017-remaster" title="&amp;Z Remix (2017 remaster)" target="_blank" style="color: #cccccc; text-decoration: none;">&amp;Z Remix (2017 remaster)</a></div> -->
