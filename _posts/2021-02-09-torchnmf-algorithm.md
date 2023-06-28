@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'How to Train Deep NMF Model in PyTorch'
 date: 2021-02-09
 permalink: /posts/2021/02/torchnmf-algorithm/
@@ -7,9 +7,9 @@ tags:
   - scientific computing
   - pytorch
   - nmf
----
+--- -->
 
-Recently I updated the implementation of PyTorch-NMF to make it be able to scale on large and complex NMF models. In this blog post I will briefly explain how this was done thanks to the automatic differentiation of PyTorch.
+<!-- Recently I updated the implementation of PyTorch-NMF to make it be able to scale on large and complex NMF models. In this blog post I will briefly explain how this was done thanks to the automatic differentiation of PyTorch.
 
 # Multiplicative Update Rules with Beta Divergence
 
@@ -86,4 +86,4 @@ In this post I show you how PyTorch-NMF apply multiplicative update rules on muc
 
 * Févotte, Cédric, and Jérôme Idier. "Algorithms for nonnegative matrix factorization with the β-divergence." Neural computation 23.9 (2011): 2421-2456.
 * PyTorch-NMF, [source code](https://github.com/yoyololicon/pytorch-NMF)
-* PyTorch-NMF, [documentation](https://pytorch-nmf.readthedocs.io/)
+* PyTorch-NMF, [documentation](https://pytorch-nmf.readthedocs.io/) -->
