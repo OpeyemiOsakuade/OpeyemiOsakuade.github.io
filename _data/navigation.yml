@@ -3,14 +3,17 @@ main:
   - title: "Publications"
     url: /publications/ 
 
+  - title: "Portfolio"
+    url: /data-science-portfolio/
+
   - title: "Talks"
     url: /talks/
     
   # - title: "Music"
   #   url: /music/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /medium-archive/
     
   - title: "CV"
     url: /cv/
