@@ -1,8 +1,8 @@
 ---
 title: "Portfolio"
-permalink: /data-science-portfolio/
+permalink: /medium-archive/
 layout: redirect
-redirect_to: https://datascienceportfol.io/osakuadeopeyemi
+redirect_to: https://medium.com/@osakuadeopeyemi
 ---
 
 <!-- <iframe 
