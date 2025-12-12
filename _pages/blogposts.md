@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "Blog Posts"
 permalink: /medium-archive/
 layout: redirect
 redirect_to: https://medium.com/@osakuadeopeyemi
